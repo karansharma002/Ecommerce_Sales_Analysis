@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 This project leverages **SQL, Pandas, and Streamlit** to analyze e-commerce sales data, providing insights into trends, revenue distribution, and top-performing products/categories. The objective is to enhance decision-making using data-driven strategies.
 
-       ![GRAPH](Images/Graph.png)
+       ![image](https://github.com/user-attachments/assets/bd9593f4-2f5a-4be5-b031-fc6671b75282)
 
 ---
 
