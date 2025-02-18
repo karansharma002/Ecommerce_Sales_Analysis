@@ -1,0 +1,19 @@
+# Ignore SQLite database (if it's large or sensitive)
+ecommerce_sales.db
+
+# Ignore auto-generated reports
+sales_report.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Streamlit and system cache files
+.streamlit/
+.DS_Store
+
+# Ignore virtual environment (if using one)
+venv/
+.env
