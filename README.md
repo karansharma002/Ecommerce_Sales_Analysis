@@ -86,7 +86,7 @@ streamlit run app.py
 ---
 
 ## 🌟 Connect With Me
-🚀 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📂 [GitHub](https://github.com/your-repo)  
+🚀 [LinkedIn](https://www.linkedin.com/in/karan=sharma-apx)  
+📂 [GitHub](https://github.com/karansharma002)  
 💬 **#DataAnalytics #SQL #Pandas #Streamlit #EcommerceInsights**
 
